@@ -1,0 +1,13 @@
+Luis Enrique Portillo Orellana
+0907-22-15191
+
+SeguraPro: es una compañia aseguradora que opera en latinoamerica y desea contratarlo a usted como ingeniero para la implementación de un sistema de polizas. Las reglas del negocio son:
+1. Si la suma asegurada es menor o igual a 100,000 la aseguradora toma un 80% de dicha suma y distribuyen el 20% restante entre 2 de sus socios.
+2. si la suma asegurada es mayor a 100,000 y menor a 120,000 se distribuyen los primeros 100,000 aplicando el caso 1 y el resto se divide en partes iguales entre 2 socios 
+3. si la suma asegurada es mayor a 120,000 se reparten los primeros 100,000 aplicando el caso 1 los siguientes 20,000 aplicando el caso 2 y el resto se le asigna a un socio con contrato especial.
+
+en base al problema anterior relizar lo siguiente:
+1. datos de entrada
+2. proceso
+3. salida
+
